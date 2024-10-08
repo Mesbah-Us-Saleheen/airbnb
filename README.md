@@ -1,6 +1,6 @@
 # Airbnb
 
-This is a simple airbnb template built by React
+This is a simple airbnb template built by React for small devices
 
 # Important Topics Covered
 
